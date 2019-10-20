@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-size:16px;
+color:#309;}
+h1{text-align:center;
+font-family:"方正粗黑宋简体", "黑体", "宋体"；
+font-size:20px;
+font-weight:300;
+color:#963;
+}
+h2{
+	font-family:"黑体";
+	font-size:16px;
+	color:#099;
+	}
+	p{
+		line-height:2em;
+		}
+		
+	#tri{
+		width:0;
+		height:0;
+		border:10px solid transparent;
+		boder-top-color:#333;
+		}
